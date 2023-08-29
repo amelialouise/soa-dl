@@ -1,0 +1,23 @@
+---
+output:
+  md_document:
+    variant: markdown_github
+---
+
+# Setup
+
+```{r setup, include = FALSE}
+library(here)
+library(reticulate)
+```
+
+R and Python config info for this project.
+
+```{r}
+py_config()
+```
+
+```{r}
+cat(R.version.string)
+```
+
