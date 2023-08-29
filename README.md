@@ -20,6 +20,6 @@ Folder legend:
 
 -   save: Intermediate data objects created during the analysis
 
--   doc: Any long-form documentation or setup instructions. This folder contains the original README.md 
+-   doc: Any long-form documentation or setup instructions. 
 
 -   publish: Any files created by the analysis to be used outside of the project
