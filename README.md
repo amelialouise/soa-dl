@@ -8,6 +8,8 @@ I'll be using R and Python.
 
 ------------------------------------------------------------------------
 
+## Project structure
+
 Project created on 2023-08-28.
 
 Folder legend:
@@ -23,3 +25,7 @@ Folder legend:
 -   doc: Any long-form documentation or setup instructions. 
 
 -   publish: Any files created by the analysis to be used outside of the project
+
+## Setup
+
+See [setup.md](setup.md)
